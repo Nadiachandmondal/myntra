@@ -1,3 +1,3 @@
 # MYNTRA
-## MYNTRA UI CLONE USING HTML5 AND VANILLA CSS .
-## LIVE :[ https://nadiachandmondal.github.io/myntra/](https://nadiachandmondal.github.io/myntra/)https://nadiachandmondal.github.io/myntra/
+# MYNTRA UI CLONE USING HTML5 AND VANILLA CSS .
+# Link for LIVE:- https://nadiachandmondal.github.io/myntra/
